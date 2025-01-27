@@ -1,1 +1,1 @@
-# Deeplearning-Practicals
+# Deeplearning-Practical
